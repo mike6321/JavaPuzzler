@@ -18,19 +18,19 @@ public class Bark {
 }
 
 class Dog2 {
-//    public static void bark() {
-//        System.out.println("woof");
-//    }
-    public void bark() {
+    public static void bark() {
         System.out.println("woof");
     }
+//    public void bark() {
+//        System.out.println("woof");
+//    }
 }
 
 class Basenji extends Dog2{
-//    public static void bark() {
-//
-//    }
-    public void bark() {
+    public static void bark() {
 
     }
+//    public void bark() {
+//
+//    }
 }
