@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±½ÏŒøÿÿÿÿ8—¥Ø€ó.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ðƒ»™øÿÿÿÿ8Â½Ï€ó.
+£
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¿ëÒúÿÿÿÿ8ú×Ñ€ó.
+f
+java:S3252"DUse static access with "me.choi.classpuzzle.Counter" for "getCount".(ËˆþÆüÿÿÿÿ8†Àç€ó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËˆþÆüÿÿÿÿ8ÿèØ€ó.
+ž
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê‡ëœ8 ¸Ó€ó.
+f
+java:S3252"DUse static access with "me.choi.classpuzzle.Counter" for "getCount".(±½ÏŒøÿÿÿÿ8¸®è€ó.

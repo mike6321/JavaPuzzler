@@ -1,4 +1,4 @@
-package me.choi.classpuzzle;
+package me.choi.classpuzzle.chapter06;
 
 /**
  * Project : JavaPuzzler
