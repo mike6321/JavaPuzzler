@@ -7,10 +7,10 @@ package me.choi.classpuzzle.chapter06;
  * @comment : static 키워드 때문에 하이딩이 일어난다.
  * Time : 10:40 오전
  */
+// TODO: 정적 메서드는 동적 디스패치가 일어나지 않는다.
 public class Bark {
     public static void main(String[] args) {
         Dog2 woofer = new Dog2();
-        // TODO: 정적 메서드는 동적 디스패치가 일어나지 않는다.
         Dog2 nipper = new Basenji();
         woofer.bark();
         nipper.bark();

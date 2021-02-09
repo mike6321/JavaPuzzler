@@ -8,6 +8,7 @@ package me.choi.classpuzzle.chapter06;
  * 정적 변수는 상속받은 모든 클래스가 공유한다.
  * Time : 1:28 오전
  */
+// TODO: 정적 변수는 상속받은 모든 클래스가 공유한다.  
 public class Ruckus {
     public static void main(String[] args) {
         Dog[] dogs = {new Dog(), new Dog()};

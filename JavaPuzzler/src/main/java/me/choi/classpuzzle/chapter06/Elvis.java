@@ -12,6 +12,7 @@ import java.util.Calendar;
  * 3. 정적 필드 값 할당 => INSTANCE 초기화 시 CURRENT_YEAR 는 0이기에 0 - 1930
  * Time : 1:57 오후
  */
+// TODO: 클래스의 초화 순서
 public class Elvis {
     public static final Elvis INSTANCE = new Elvis();
     private static final int CURRENT_YEAR = Calendar.getInstance().get(Calendar.YEAR);
@@ -27,7 +28,6 @@ public class Elvis {
     }
 
     public static void main(String[] args) {
-        // TODO: 클래스의 초화 순서
         System.out.println("엘비스의 허리사이즈는 " + INSTANCE.getBeltSize() + "입니다...! 돼지");
     }
 
