@@ -4,7 +4,8 @@ package me.choi.classpuzzle.chapter06;
  * Project : JavaPuzzler
  *
  * @author : jwdeveloper
- * @comment : 착한 나의 강아지와 고양이
+ * @comment : 상속보단 합성을 사용하라
+ * 정적 변수는 상속받은 모든 클래스가 공유한다.
  * Time : 1:28 오전
  */
 public class Ruckus {
