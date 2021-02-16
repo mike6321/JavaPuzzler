@@ -1,0 +1,8 @@
+
+F
+java:S1905")Remove this unnecessary cast to "Object".(âÙªË8ñàæªø.
+]	java:S125"<This block of commented-out lines of code should be removed.(Øó…ªøÿÿÿÿ8ñàæªø.
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‚–Øåøÿÿÿÿ8†Øâªø.
+C
+java:S1481"&Remove this unused "o" local variable.(âÙªË8ñàæªø.

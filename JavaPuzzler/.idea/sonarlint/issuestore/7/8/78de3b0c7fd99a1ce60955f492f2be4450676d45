@@ -1,4 +1,19 @@
 
-]
-java:S2094
-"BRemove this empty class, write its code or make it an "interface".(Ð¦Ë˜üÿÿÿÿ
+]	java:S125!"<This block of commented-out lines of code should be removed.(–ÇíÒøÿÿÿÿ8ýú¾©ø.
+W
+java:S2209"5Change this instance-reference to a static reference.(ó‡©ßúÿÿÿÿ8¼š¿©ø.
+T
+java:S1135
+"2Complete the task associated to this TODO comment.(§¬¤½ûÿÿÿÿ8ÚÁ¨ø.
+]	java:S125"<This block of commented-out lines of code should be removed.(–ÇíÒøÿÿÿÿ8¼š¿©ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´ÝÅ˜8¾ôÞ¦ø.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(íë8¼š¿©ø.
+D
+java:S2440"'Remove this instantiation of "Basenji".(æÃ Ù8¼š¿©ø.
+A
+java:S2440"$Remove this instantiation of "Dog2".(é×÷8¼š¿©ø.
+R
+java:S2209"5Change this instance-reference to a static reference.(²®å¶8¼š¿©ø.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ¾¤Óüÿÿÿÿ8÷Û¾©ø.

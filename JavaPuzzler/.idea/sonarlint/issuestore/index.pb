@@ -9,3 +9,9 @@ g
 7src/main/java/me/choi/classpuzzle/chapter06/Ruckus.java,a/2/a2b708e08206ae9e4a33ccc2d643f2867d4923e3
 e
 5src/main/java/me/choi/classpuzzle/chapter06/Bark.java,7/8/78de3b0c7fd99a1ce60955f492f2be4450676d45
+e
+5src/main/java/me/choi/classpuzzle/chapter06/Type.java,1/2/1277afc56d7c34f78db103999a96c780b75886e7
+f
+6src/main/java/me/choi/classpuzzle/chapter06/Elvis.java,5/1/51b8204f64012a10212a5b4c4f8b3e5e8d3dc594
+k
+;src/main/java/me/choi/classpuzzle/chapter06/ColorPoint.java,5/1/518a4c47dd46cae1fa7a46b23e569a7e5d33a618
