@@ -15,3 +15,5 @@ f
 6src/main/java/me/choi/classpuzzle/chapter06/Elvis.java,5/1/51b8204f64012a10212a5b4c4f8b3e5e8d3dc594
 k
 ;src/main/java/me/choi/classpuzzle/chapter06/ColorPoint.java,5/1/518a4c47dd46cae1fa7a46b23e569a7e5d33a618
+b
+2src/main/java/me/choi/chapter08/PrivateMatter.java,e/b/ebba7ba1ccc02627bd56eb3f53df916ff9e3cce9
